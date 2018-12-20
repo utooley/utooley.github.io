@@ -17,18 +17,18 @@ img.pic {
 }
 
 nav ul, footer ul {
-    font-family:'Sans-Serif';
+    font-family:'Helvetica, Arial, Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: none;
 }
 nav ul li, footer ul li {
-    font-family:'Sans-Serif';
+    font-family:'Helvetica, Arial, Sans-Serif';
     display: inline;
     margin-right: 20px;
 }
 a {
-    font-family:'Sans-Serif';
+    font-family:'Helvetica, Arial, Sans-Serif';
     text-decoration: none;
     color: #000;
 }
@@ -38,7 +38,7 @@ a:hover {
 }
 
 a.int {
-    font-family:'Sans-Serif';
+    font-family:'Helvetica, Arial, Sans-Serif';
     text-decoration: none;
     color: #888;
     font-size: 1.1em;
@@ -53,7 +53,7 @@ a.int:focus {
 }
 
 a.ext {
-    font-family:'Sans-Serif';
+    font-family:'Helvetica, Arial, Sans-Serif';
     text-decoration: none;
     color: #000;
 }
@@ -63,7 +63,7 @@ a.ext:hover {
 }
 
 a.paper {
-    font-family:'Sans-Serif';
+    font-family:'Helvetica, Arial, Sans-Serif';
     text-decoration: none;
     color: #f01818;
 }
@@ -75,24 +75,24 @@ a.paper:hover {
 
 h1 {
     font-size: 2em;
-    font-family:'Sans-Serif';
+    font-family:'Helvetica, Arial, Sans-Serif';
     font-weight: normal;
 }
 
 h2 {
     font-size: 1.5;
-    font-family:'Sans-Serif';
+    font-family:'Helvetica, Arial, Sans-Serif';
     font-weight: normal;
 }
 
 h3 {
     font-size: 1em;
-    font-family:'Sans-Serif';
+    font-family:'Helvetica, Arial, Sans-Serif';
     font-weight: bold;
 }
 
 p {
-    font-family:'Sans-Serif';
+    font-family:'Helvetica, Arial, Sans-Serif';
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
@@ -102,14 +102,14 @@ p {
 
 
 li {
-    font-family:'Sans-Serif';
+    font-family:'Helvetica, Arial, Sans-Serif';
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
 }
 
 ul {
-    font-family:'Sans-Serif';
+    font-family:'Helvetica, Arial, Sans-Serif';
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
@@ -121,12 +121,12 @@ footer {
 }
 
 ul.posts {
-    font-family:'Sans-Serif';
+    font-family:'Helvetica, Arial, Sans-Serif';
     margin: 20px auto 40px;
     font-size: 1em;
 }
 
 ul.posts li {
-    font-family:'Sans-Serif';
+    font-family:'Helvetica, Arial, Sans-Serif';
     list-style: none;
 }
