@@ -1,5 +1,5 @@
 ---
-title: Pinheirochagas.Github.Io
+title: utooley.github.io
 timezone: UTC
 collections:
   posts:
@@ -8,6 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Pedro Pinheiro-Chagas
+name: Ursula Tooley
 markdown: kramdown
 permalink: /news/:year/:month/:day/:title
