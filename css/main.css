@@ -1,0 +1,135 @@
+body {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+img.pic {
+  object-fit: cover;
+}
+
+
+@media only screen and (max-width: 768px) {
+  body {
+    margin: 100px auto;
+    width: 95%;
+    font-size: 0.9em
+  }
+}
+
+nav ul, footer ul {
+    font-family:'Computer Modern Serif', serif;
+    padding: 0px;
+    list-style: none;
+    font-weight: none;
+}
+nav ul li, footer ul li {
+    font-family:'Computer Modern Serif', serif;
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    font-family:'Computer Modern Serif', serif;
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: overline underline;
+}
+
+a.int {
+    font-family:'Computer Modern Serif', serif;
+    text-decoration: none;
+    color: #888;
+    font-size: 1.1em;
+}
+
+a.int:hover {
+    text-decoration: overline;
+}
+
+a.int:focus {
+    text-decoration: overline;
+}
+
+a.ext {
+    font-family:'Computer Modern Serif', serif;
+    text-decoration: none;
+    color: #000;
+}
+
+a.ext:hover {
+    text-decoration: overline;
+}
+
+a.paper {
+    font-family:'Computer Modern Serif', serif;
+    text-decoration: none;
+    color: #f01818;
+}
+
+a.paper:hover {
+    text-decoration: overline;
+}
+
+
+h1 {
+    font-size: 2em;
+    font-family:'Computer Modern Serif', serif;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 1.5;
+    font-family:'Computer Modern Serif', serif;
+    font-weight: normal;
+}
+
+h3 {
+    font-size: 1em;
+    font-family:'Computer Modern Serif', serif;
+    font-weight: bold;
+}
+
+p {
+    font-family:'Computer Modern Serif', serif;
+    font-size: 1em;
+    line-height: 1.4em;
+    color: #333;
+    text-align: justify;
+}
+
+
+
+li {
+    font-family:'Computer Modern Serif', serif;
+    font-size: 1em;
+    line-height: 1.4em;
+    color: #333;
+}
+
+ul {
+    font-family:'Computer Modern Serif', serif;
+    font-size: 1em;
+    line-height: 1.4em;
+    color: #333;
+}
+
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: 1em;
+}
+
+ul.posts { 
+    font-family:'Computer Modern Serif', serif;
+    margin: 20px auto 40px; 
+    font-size: 1em;
+}
+
+ul.posts li {
+    font-family:'Computer Modern Serif', serif;
+    list-style: none;
+}
+
+
+

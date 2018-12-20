@@ -1,0 +1,13 @@
+---
+title: Pinheirochagas.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: Pedro Pinheiro-Chagas
+markdown: kramdown
+permalink: /news/:year/:month/:day/:title
