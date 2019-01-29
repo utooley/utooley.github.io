@@ -4,8 +4,9 @@ body {
     margin: 0 auto;
 }
 
-img.pic {
+img {
   object-fit: cover;
+  padding-right: 10px;
 }
 
 
