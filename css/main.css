@@ -132,3 +132,7 @@ ul.posts li {
     font-family:Sans-serif;
     list-style: none;
 }
+
+embed {
+  width: 100%;
+}
