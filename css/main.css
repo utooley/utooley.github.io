@@ -133,6 +133,6 @@ ul.posts li {
     list-style: none;
 }
 
-embed {
-  width: 100%;
+iframe {
+  width: 100%; /* for responsiveness */
 }
